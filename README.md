@@ -5,7 +5,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ INTRO ░░░░░░░░░░░░░░░░░░░░ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I%27m+Aaditya+Gupta;Full-Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+TypeScript;AI%2FML+Enthusiast+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+GenAI;DSA+in+Python+%E2%80%A2+LeetCode+%E2%80%A2+GeeksforGeeks;Hi+%F0%9F%91%8B+I%27m+Aaditya+Gupta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I%27m+Aaditya+Gupta;Building+Scalable+Web+Apps+from+Idea+to+Deployment;Turning+Data+into+Intelligent+Products+with+AI%2FML;Solving+Problems+One+Line+of+Code+at+a+Time;Always+Learning+%E2%80%A2+Always+Shipping;Hi+%F0%9F%91%8B+I%27m+Aaditya+Gupta" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -209,10 +209,6 @@ System Design & Cloud
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&repeat=false&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=GitHub+Statistics" alt="GitHub Statistics"/></h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=80&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="GitHub Analytics" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=620&lines=Commits+%E2%80%A2+Pull+Requests+%E2%80%A2+Streaks;Languages+%E2%80%A2+Productive+Hours+%E2%80%A2+Trophies;Numbers+that+show+consistency+%F0%9F%93%88" alt="stats subtitle"/>
 </p>
 
@@ -231,16 +227,6 @@ System Design & Cloud
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadityagupta01&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadityagupta01&theme=tokyonight" alt="Most commit language"/>
-</p>
-
-<!-- Row 4: trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityagupta01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
-</p>
-
-<!-- Row 5: activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityagupta01&bg_color=0d1117&color=00f5d4&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" width="100%"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
